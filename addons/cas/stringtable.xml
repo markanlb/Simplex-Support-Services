@@ -259,7 +259,7 @@
 		</Key>
 		<Key ID="STR_SSS_CAS_notifyLoiterTimeoutWarning">
 			<English>Leaving the area in 1 minute.</English>
-			<French>Quitter la zone dans 1 minute.</French>
+			<French>Quittera la zone dans 1 minute.</French>
 		</Key>
 		<Key ID="STR_SSS_CAS_notifyLoiterTimeout">
 			<English>Returning to base.</English>
